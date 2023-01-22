@@ -9,7 +9,9 @@ This implementation was fully coded in Java and was run and tested in IntelliJ I
 
 ## Running instructions 
 
-Run the following command to test the implementation:
+The tests can be easily run via the Intellij IDEA environment. 
+
+Alternatively, we could run the following command to test the implementation:
 
 ```bash
   $ > ./gradlew build
@@ -20,8 +22,6 @@ or
 ```bash
   $ > ./gradlew test
 ```
-
-Alternatively, the test can be run via the Intellij IDEA environment. 
 
 After each execution, the test reports will be stored in the lib/build/reports/tests/test/index.html file.
 
